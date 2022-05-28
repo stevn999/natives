@@ -8,6 +8,7 @@ ns: STREAMING
 void SET_VEHICLE_POPULATION_BUDGET(int p0);
 ```
 
+Range seems to be the same as SET_PED_POPULATION_BUDGET
 
 ## Parameters
 * **p0**: 
